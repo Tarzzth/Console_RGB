@@ -17,8 +17,8 @@
 
 ## 📦 วิธีติดตั้ง
 
-1. สร้างไฟล์ใหม่ชื่อ **`RGBConsole.lua`**
-2. วางโค้ดต่อไปนี้ลงไปในไฟล์:
+1. loadstring ไฟล์ mainLibarary.lua:
+2. ใช้งานตามฟังชั่น
 
 ```lua
 local RGBConsole = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tarzzth/Console_RGB/refs/heads/main/mainLibarary.lua"))()
