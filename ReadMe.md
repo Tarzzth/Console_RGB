@@ -21,10 +21,9 @@
 2. วางโค้ดต่อไปนี้ลงไปในไฟล์:
 
 ```lua
-local RGBConsole = loadstring(game:HttpGet("https://raw.githubusercontent.com/YourNameHere/RGBConsole/main/RGBConsole.lua"))()
+local RGBConsole = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tarzzth/Console_RGB/refs/heads/main/mainLibarary.lua"))()
 
 RGBConsole:Print("RGBConsole Loaded!")
 RGBConsole:Start()
 ```
-
-return RGBConsole
+Thanks 
