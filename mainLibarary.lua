@@ -65,7 +65,7 @@ function RGBConsole:Stop()
 	if Connections["RGBLoop"] then
 		Connections["RGBLoop"]:Disconnect()
 		Connections["RGBLoop"] = nil
-		print("[RGBConsole] ⏹️ หยุดการทำงานของ RGB แล้ว")
+		print("\n")
 	end
 end
 
